@@ -3,7 +3,32 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
+            <file>file:/C:/xampp/htdocs/submarine/src/classes/drivers/NoSQLDriver.php</file>
+            <file>file:/C:/xampp/htdocs/submarine/src/classes/ExecuteOperations.php</file>
+            <file>file:/C:/xampp/htdocs/submarine/src/classes/databases/RDBMS/MySQL.php</file>
+            <file>file:/C:/xampp/htdocs/submarine/src/classes/databases/RDBMS/IBM.php</file>
+            <file>file:/C:/xampp/htdocs/submarine/src/classes/databases/NoSQL/CassandraDB.php</file>
+            <file>file:/C:/xampp/htdocs/submarine/src/classes/drivers/NoSQLDrivers/MongoDBDriver.php</file>
+            <file>file:/C:/xampp/htdocs/submarine/src/classes/databases/NoSQL/CouchDB.php</file>
+            <file>file:/C:/xampp/htdocs/submarine/public/.htaccess</file>
+            <file>file:/C:/xampp/htdocs/submarine/src/classes/drivers/NoSQLDrivers/CouchDBDriver.php</file>
             <file>file:/C:/xampp/htdocs/submarine/index.php</file>
+            <file>file:/C:/xampp/htdocs/submarine/src/classes/databases/NoSQL.php</file>
+            <file>file:/C:/xampp/htdocs/submarine/configs/config.json</file>
+            <file>file:/C:/xampp/htdocs/submarine/src/classes/drivers/NoSQLDrivers/CassandraDBDriver.php</file>
+            <file>file:/C:/xampp/htdocs/submarine/public/index.html</file>
+            <file>file:/C:/xampp/htdocs/submarine/src/classes/DataBase.php</file>
+            <file>file:/C:/xampp/htdocs/submarine/src/classes/databases/RDBMS/Firebird.php</file>
+            <file>file:/C:/xampp/htdocs/submarine/src/classes/databases/RDBMS/Cubrid.php</file>
+            <file>file:/C:/xampp/htdocs/submarine/src/traits/singleton.php</file>
+            <file>file:/C:/xampp/htdocs/submarine/src/classes/databases/RDBMS/PostgreSQL.php</file>
+            <file>file:/C:/xampp/htdocs/submarine/src/classes/DataBaseDriver.php</file>
+            <file>file:/C:/xampp/htdocs/submarine/src/classes/databases/RDBMS/Oracle.php</file>
+            <file>file:/C:/xampp/htdocs/submarine/src/classes/databases/RDBMS/MsSQLServer.php</file>
+            <file>file:/C:/xampp/htdocs/submarine/src/classes/databases/NoSQL/MongoDB.php</file>
+            <file>file:/C:/xampp/htdocs/submarine/src/classes/databases/RDBMS/SQLite.php</file>
+            <file>file:/C:/xampp/htdocs/submarine/src/classes/databases/RDBMS.php</file>
+            <file>file:/C:/xampp/htdocs/submarine/src/classes/databases/RDBMS/Informix.php</file>
         </group>
     </open-files>
 </project-private>
