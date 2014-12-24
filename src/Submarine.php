@@ -37,7 +37,24 @@ use Submarine\DataBases\NoSQL\CouchDB;
 use Submarine\DataBases\NoSQL\MongoDB;
 
 class Main {
-    public function __construct() {
+    public function __construct() 
+    {
         echo 'hola k tal';
+        
+        echo "\n";
+        $prueba = new DataBases\RDBMSs\MySQL();
+        $prueba->setTabla("voluntarios");
+        $prueba->select("tu vieja");
+        $prueba->where("condicion");
+        $prueba->notBetweenAnd (6, 10);
+        $prueba->groupBy("voluntarios");
+        
+        
+        $prueba->select("hola k tal", $prueba->AS("hola"));
+        
+        
+        echo $prueba->getQuery() . ";";
+       //EL EXECUTE TIENE QUE AGREGAR EL ;
+        
     }
 }
